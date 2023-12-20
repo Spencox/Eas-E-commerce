@@ -48,6 +48,6 @@ Git Bootcamp Content - ORM Activities. (n.d.). Retrieved from https://git.bootca
 Sequelize Documentation. (n.d.). Retrieved from https://sequelize.org/docs/v6/getting-started/
 
 ## Questions
-GitHub Repo: https://github.com/Spencox/Workforce-Explorer   
+GitHub Repo: [https://github.com/Spencox/Workforce-Explorer](https://github.com/Spencox/Eas-E-commerce)https://github.com/Spencox/Eas-E-commerce   
 Email: spencox@gmail.com
 
