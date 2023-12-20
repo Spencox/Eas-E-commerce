@@ -28,7 +28,8 @@ You can then use your choice of tool such as Insomnia or POSTman to make api cal
 
 ## Usage
 
-A demonstration of the endpoints for the Category, Tag, and Product API calls can be viewed here: <Link>
+A demonstration of the endpoints for the Category, Tag, and Product API calls can be viewed here: [Walkthrough](https://drive.google.com/file/d/1V4LI9P7S_3YtOkADM4AiHB9q4L5k57CN/view?usp=drive_link)
+
 
 Each of the three main tables (category, tag, and product) can be called using the following endpoints:
 
